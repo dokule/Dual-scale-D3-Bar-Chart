@@ -1,4 +1,4 @@
-year	money	number
+Time	money	number
 01	550	35
 02	600	40
 03	700	45
@@ -8,3 +8,6 @@ year	money	number
 07	880	67
 08	900	70
 09	1000	75
+10
+11
+12
